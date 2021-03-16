@@ -1,0 +1,66 @@
+#include <iostream>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+void menu()
+{
+  /*
+  "Welcome to the library!"
+  (add a new book, rent a book, search a book, display a book, update a book, exit)
+  create sentinel value e.g., "exit", that will allow user to exit program
+  create conditional statement inside main that compares text of userChoice with one of the options
+  listed (string comparison), e.g., "If (userChoice == addBook), then call addBook",
+  */
+}
+
+void add_book()
+{
+
+}
+
+void rent_book
+{
+
+}
+
+void search_book
+{
+
+}
+
+void delete_books()
+{
+
+}
+
+void display_book()
+{
+
+}
+
+void update_book()
+{
+
+}
+
+int main()
+{
+  vector<string> book;
+  {
+
+  }
+
+  vector<string> rented_book;
+  {
+
+  }
+
+  vector<string> archived;
+  {
+
+  }
+
+  return 0;
+}
